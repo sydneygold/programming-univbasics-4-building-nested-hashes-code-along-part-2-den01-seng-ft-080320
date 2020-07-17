@@ -56,8 +56,8 @@ def add_characters
 
    # Write code below that does the following programmatically:
    epic_tragedy[:additional_characters] = []
-   epic_tragedy[:additional_characters] << {:name "Prince Escalus"}
-   epic_tragedy[:additional_characters] << {:name "Apothecary"}
+   epic_tragedy[:additional_characters] << {:name "Prince Escalus" }
+   epic_tragedy[:additional_characters] << {:name "Apothecary" }
 
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
    # - Add two hashes to this array, both with a :name key.
